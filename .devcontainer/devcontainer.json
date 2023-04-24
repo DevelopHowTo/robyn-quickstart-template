@@ -7,7 +7,7 @@
   "updateContentCommand": "pip install -r requirements.txt",
   "postCreateCommand": "",
   "postAttachCommand": {
-    "server": "python3 app.py -h"
+    "server": "python3 app.py"
   },
   "portsAttributes": {
     "5000": {
